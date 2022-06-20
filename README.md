@@ -1,14 +1,14 @@
-### Hello there, Anshul Soni this side, pursuing B.Tech from Medi-Caps University. Here is my [website][website] 👋 
+### Hello there, Anshul Soni this side, pursuing B.Tech in Computer Science Engineering from Medi-Caps University. Here is my [website][website] 👋 
 
 <br />
 
-## I'm a Developer, Computer Science Student!
+## I'm a Developer, Tech-enthusiast and Student 
 
 <br />
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute  to Open Source projects, Learn more in the development field
+- 🌱 I’m currently learning Web-Development, Data Structures and ALgorithm and other programming languages.
+- 👯 I’m looking to collaborate with other developers, and contributors. 
+- 🥅 2022 Goals: Contribute  to Open Source projects, Learn more in the development field.
 
 - ⚡ Whatever you do, do it well.
 
@@ -17,7 +17,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
@@ -45,7 +45,7 @@
 ### 📕 Projects :
 
 <!-- BLOG-POST-LIST:START -->
-- [Portfolio Website](anshul.atwebpages.com)
+- [Portfolio Website](https://anshul-soni.vercel.app/#welcome-section)
 - [Fitness Website](https://you-fit.vercel.app/index.html)
 - [Weather App](https://weather-app-black-five.vercel.app/)
 - [Rock Scissors Paper Game](https://rock-paper-scissors-ten-neon.vercel.app/)
@@ -56,7 +56,7 @@
 ---
 
 
-[website]: anshul.atwebpages.com
+[website]: https://anshul-soni.vercel.app/#welcome-section
 
 [twitter]: https://twitter.com/Anshul_the_soni
 [youtube]: https://www.youtube.com/channel/UC0A3nEIKqMd4B4rActFUhEg
