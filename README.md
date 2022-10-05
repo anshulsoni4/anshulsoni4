@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web-Development (React JS), Data Structures, and Algorithms<br><br>👯 I’m looking to collaborate on Open sources projects, interact with other developers<br><br>🚀 My goals for 2022 are - to enhance my problem-solving skills, build projects and learn more every day<br><br>👨‍💻 All of my projects are available at https://anshul-soni.vercel.app/<br><br>💬 Ask me about c++/c, java, python, web-dev, react, mysql<br><br>📫 How to reach me  - anshulsoni3040@gmail.com
+🌱 I’m currently learning Web-Development (React JS), Data Structures, and Algorithms<br><br>👯 I’m looking to collaborate on Open sources projects, interact with other developers<br><br>🚀 My goals for 2022 are - to enhance my problem-solving skills, build projects and learn more every day<br><br>👨‍💻 All of my projects are available at https://anshul-soni-portfolio.vercel.app/<br><br>💬 Ask me about c++/c, java, python, web-dev, react, mysql<br><br>📫 How to reach me  - anshulsoni3040@gmail.com
 
 
 ## 🌐 Socials:
