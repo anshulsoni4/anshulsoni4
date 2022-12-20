@@ -19,7 +19,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## Hacktober Fest 2022
-https://www.holopin.io/@anshul_soni
+[![An image of @anshul_soni's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anshul_soni)](https://holopin.io/@anshul_soni)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anshulsoni4&icon=7&color=4)](https://visitcount.itsvg.in)
