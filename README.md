@@ -18,5 +18,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## Hacktober Fest 2022
+https://www.holopin.io/@anshul_soni
+
 ---
 [![](https://visitcount.itsvg.in/api?id=anshulsoni4&icon=7&color=4)](https://visitcount.itsvg.in)
