@@ -5,7 +5,7 @@
 
 # About Me:
 - 📍 Living in Indore, India
-- 🎨 I work as a front-end developer and understand user experience.
+- 🎨 I work as a front-end developer and user experience designer.
 - 👨‍💻 Interested in development, design, debugging, and building stuff.
 - 🤝 Schedule a meeting with me at [cal.com/anshul-soni](https://cal.com/anshul-soni/30min)
 - 📩 Mail me at anshulsoni3040@gmail.com
