@@ -8,7 +8,7 @@
 - 🎨 I work as a front-end developer and user experience designer.
 - 👨‍💻 Interested in web development, web/app designing, problem solving, and building stuff.
 - 🤝 Schedule a meeting with me at [cal.com/anshul-soni](https://cal.com/anshul-soni/30min)
-- 📩 Mail me at anshulsoni3040@gmail.com
+- 📩 Mail me at anshulsoni3040@gmail.com or https://bento.me/anshul-soni
 
 ###
 ##  Socials
