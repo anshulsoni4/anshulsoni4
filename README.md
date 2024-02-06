@@ -1,17 +1,22 @@
 [![github-header-image.png](https://i.postimg.cc/WbRL6PG8/github-header-image.png)](https://postimg.cc/G9j5dVST)
 
-![Visitor Count](https://profile-counter.glitch.me/{anshulsoni4}/count.svg)
-
-
-# About Me:
-- 📍 Living in Indore, India
-- 🎨 I work as a front-end developer and user experience designer.
-- 👨‍💻 Interested in web development, web/app designing, problem solving, and building stuff.
-- 🤝 Schedule a meeting with me at [cal.com/anshul-soni](https://cal.com/anshul-soni/30min)
-- 📩 Mail me at anshulsoni3040@gmail.com or https://bento.me/anshul-soni
-
+# About Me :
+-  living in Indore, India
+-  i work as a front-end developer and user experience designer.
+-  interested in developing, designing web pages, and building stuff.
+-  schedule a meeting with me at [cal.com/anshul-soni](https://cal.com/anshul-soni/30min)
+-  mail me at anshulsoni3040@gmail.com
 ###
-##  Socials
+# Work Experience :
+- Software Developer intern at [47 Billion](https://www.linkedin.com/feed/update/urn:li:activity:7151632626498334721/), worked in Conversational UI development.
+- Front-End Engineer at [Scrobits technologies](https://www.linkedin.com/company/scrobits-technologies/), Built web projects using ReactJS, TailwindCSS, Material-UI and tools like Postman.
+- Contributed to [Girl Script Summer of Code](https://gssoc.girlscript.tech/leaderboard), contributed to 5+ open source projects in web domain.
+- Contributed to [Social Summer of Code](https://certificate.givemycertificate.com/c/878e155e-b511-42df-9e77-91c10832369d), made more than 10+ PR's during the program.
+###
+# Blogs / Articles :
+- All of my blogs can be accessed here [Anshul's Hashnode](https://anshul-soni.hashnode.dev/)
+
+#  Socials :
 <div align="center">
   <a href="https://www.linkedin.com/in/-anshul-soni/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="30" alt="linkedin logo"  />
@@ -35,7 +40,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="55" height="30" alt="linktree logo"  />
   </a>
 </div>
-
+###
 
 ##  Tech Stack:
 
@@ -81,7 +86,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-## Stats
+## Stats :
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anshulsoni4&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
