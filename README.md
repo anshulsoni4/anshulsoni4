@@ -3,7 +3,7 @@
 # About Me :
 -  living in Indore, India
 -  i work as a front-end developer and user experience designer.
--  interested in developing, designing web pages, and building stuff.
+-  interested in developing,designing web pages, and building stuff.
 -  schedule a meeting with me at [cal.com/anshul-soni](https://cal.com/anshul-soni/30min)
 -  mail me at anshulsoni3040@gmail.com
 ###
@@ -40,7 +40,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="55" height="30" alt="linktree logo"  />
   </a>
 </div>
-###
 
 ##  Tech Stack:
 
