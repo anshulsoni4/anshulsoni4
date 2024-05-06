@@ -10,6 +10,7 @@
 # Work Experience :
 - Software Developer intern at [47 Billion](https://www.linkedin.com/feed/update/urn:li:activity:7151632626498334721/), worked in Conversational UI development.
 - Front-End Engineer at [Scrobits technologies](https://www.linkedin.com/company/scrobits-technologies/), Built web projects using ReactJS, TailwindCSS, Material-UI and tools like Postman.
+- Mentored at [Girl Script Summer of Code](https://gssoc.girlscript.tech/leaderboard), responsible for mentoring students for open source and maintaining open source projects with the admins.
 - Contributed to [Girl Script Summer of Code](https://gssoc.girlscript.tech/leaderboard), contributed to 5+ open source projects in web domain.
 - Contributed to [Social Summer of Code](https://certificate.givemycertificate.com/c/878e155e-b511-42df-9e77-91c10832369d), made more than 10+ PR's during the program.
 ###
