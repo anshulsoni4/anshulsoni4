@@ -1,6 +1,5 @@
 
 # About Me :
--  based in Navi Mumbai, India
 -  Assistant Systems Engineer @ **TCS** — Database & Infrastructure Operations (Banking domain).
 -  Oracle DBA by trade, actively transitioning into **Cloud / DevOps / SRE**.
 -  I live in the terminal: Linux server ops, RMAN backup & recovery, monitoring, automation.
