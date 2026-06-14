@@ -1,16 +1,20 @@
 
-
 # About Me :
 -  based in Navi Mumbai, India
 -  Assistant Systems Engineer @ **TCS** — Database & Infrastructure Operations (Banking domain).
 -  Oracle DBA by trade, actively transitioning into **Cloud / DevOps / SRE**.
 -  I live in the terminal: Linux server ops, RMAN backup & recovery, monitoring, automation.
+-  on the side, I run an **AI automation** practice — building **n8n** workflows powered by **Claude & ChatGPT**, plus prompt-engineering training.
 -  currently building hands-on AWS + IaC projects and pursuing **AWS Solutions Architect – Associate (SAA-C03)**.
 -  schedule a meeting with me at [cal.com/anshul-soni](https://cal.com/anshul-soni/30min)
 -  mail me at anshulsoni3040@gmail.com
 ###
 # Work Experience :
-- **Assistant Systems Engineer** at **Tata Consultancy Services (TCS)** — Database & Infrastructure Operations in the banking domain. Manage Oracle 19c & PostgreSQL production environments, run daily RMAN backups across 10+ databases, build Grafana dashboards & alerts, handle incident response, and automate routine ops with Bash on Linux.
+- **Assistant Systems Engineer** at **Tata Consultancy Services (TCS)** — Database & Infrastructure Operations in the banking domain.
+  - Administer **Oracle 19c** & **PostgreSQL** production databases — RMAN backup & recovery across 10+ DBs, AWR/ASH performance analysis, SQL / PL-SQL tuning, tablespace & user management, and account/profile administration.
+  - Built and maintain **Grafana** dashboards and alerting for DB & server health; drive incident response under banking SLAs via JIRA.
+  - Run day-to-day **Linux** server operations and automate recurring tasks with Bash scripting.
+- **AI Automation Consultant & n8n Developer** *(Freelance)* — **Upwork Top-Rated**. Delivered 30+ production automation workflows for 10+ clients, integrating **n8n** with **Claude** & **ChatGPT** APIs, Google Workspace, and third-party services. Also deliver corporate training & prompt-engineering workshops (300+ learners trained).
 - **Automation & AI Engineer Intern** at **Growwstacks** — delivered workflow automation and API integrations for 10+ clients using n8n, building reliable end-to-end automation pipelines.
 ###
 # What I'm Working On :
@@ -70,6 +74,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
 </div>
 
+#### 🤖 AI & Automation
+<div align="center">
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="30" alt="n8n logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/anthropic/D97757" height="30" alt="claude logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/openai/412991" height="30" alt="openai logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/zapier/FF4F00" height="30" alt="zapier logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="30" alt="gemini logo"  />
+</div>
+
 #### 🐧 OS, Servers & Automation
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
@@ -79,8 +96,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="30" alt="n8n logo"  />
   <img width="16" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
