@@ -1,4 +1,4 @@
-[![github-header-image.png](https://i.postimg.cc/WbRL6PG8/github-header-image.png)](https://postimg.cc/G9j5dVST)
+
 
 # About Me :
 -  based in Navi Mumbai, India
