@@ -1,18 +1,29 @@
 [![github-header-image.png](https://i.postimg.cc/WbRL6PG8/github-header-image.png)](https://postimg.cc/G9j5dVST)
 
 # About Me :
--  living in Indore, India
--  i work as a front-end developer and user experience designer.
--  interested in developing,designing web pages, and building stuff.
+-  based in Navi Mumbai, India
+-  Assistant Systems Engineer @ **TCS** — Database & Infrastructure Operations (Banking domain).
+-  Oracle DBA by trade, actively transitioning into **Cloud / DevOps / SRE**.
+-  I live in the terminal: Linux server ops, RMAN backup & recovery, monitoring, automation.
+-  currently building hands-on AWS + IaC projects and pursuing **AWS Solutions Architect – Associate (SAA-C03)**.
 -  schedule a meeting with me at [cal.com/anshul-soni](https://cal.com/anshul-soni/30min)
 -  mail me at anshulsoni3040@gmail.com
 ###
 # Work Experience :
-- Software Developer intern at [47 Billion](https://www.linkedin.com/feed/update/urn:li:activity:7151632626498334721/), worked in Conversational UI development.
-- Front-End Engineer at [Scrobits technologies](https://www.linkedin.com/company/scrobits-technologies/), Built web projects using ReactJS, TailwindCSS, Material-UI and tools like Postman.
-- Mentored at [Girl Script Summer of Code](https://gssoc.girlscript.tech/leaderboard), responsible for mentoring students for open source and maintaining open source projects with the admins.
-- Contributed to [Girl Script Summer of Code](https://gssoc.girlscript.tech/leaderboard), contributed to 5+ open source projects in web domain.
-- Contributed to [Social Summer of Code](https://certificate.givemycertificate.com/c/878e155e-b511-42df-9e77-91c10832369d), made more than 10+ PR's during the program.
+- **Assistant Systems Engineer** at **Tata Consultancy Services (TCS)** — Database & Infrastructure Operations in the banking domain. Manage Oracle 19c & PostgreSQL production environments, run daily RMAN backups across 10+ databases, build Grafana dashboards & alerts, handle incident response, and automate routine ops with Bash on Linux.
+- **Automation & AI Engineer Intern** at **Growwstacks** — delivered workflow automation and API integrations for 10+ clients using n8n, building reliable end-to-end automation pipelines.
+###
+# What I'm Working On :
+- 🐧 Deepening **Linux**, networking, and shell scripting fundamentals.
+- ☁️ Hands-on **AWS** (VPC, EC2, RDS, IAM, S3, CloudWatch) + **Terraform** IaC.
+- 🐳 Containers & orchestration — **Docker** and **Kubernetes** labs.
+- 🔁 **CI/CD** pipelines with GitHub Actions / Jenkins.
+- 📚 Working through **Decoding DevOps** (Imran Teli) — VProfile multi-service stack (Nginx, Tomcat, RabbitMQ, Memcached, MySQL).
+###
+# Projects :
+- **aws-3tier-terraform** — 3-tier architecture on AWS provisioned fully with Terraform (VPC, public/private subnets, NAT, ALB, RDS).
+- **aws-cicd-static-hosting** — static site CI/CD pipeline deploying to S3 + CloudFront via GitHub Actions.
+- **Database Backup & Health Monitoring System** — automated backup, restore-validation and health checks for relational databases — my DBA + DevOps moat.
 ###
 # Blogs / Articles :
 - All of my blogs can be accessed here [Anshul's Hashnode](https://anshul-soni.hashnode.dev/)
@@ -25,66 +36,72 @@
   <a href="https://twitter.com/Anshul_the_soni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://dribbble.com/Anshul_34" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="55" height="30" alt="dribbble logo"  />
+  <a href="https://dev.to/anshulsoni4" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="55" height="30" alt="devto logo"  />
   </a>
   <a href="https://stackoverflow.com/users/14875922/anshul-soni" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="55" height="30" alt="stackoverflow logo"  />
   </a>
-  <a href="https://dev.to/anshulsoni4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="55" height="30" alt="devto logo"  />
-  </a>
-  <a href="https://codepen.io/anshul_soni" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="55" height="30" alt="codepen logo"  />
-  </a>
-  <a href="https://linktr.ee/anshulsoni" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="55" height="30" alt="linktree logo"  />
+  <a href="https://own.page/anshulsoni" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="55" height="30" alt="portfolio logo"  />
   </a>
 </div>
 
 ##  Tech Stack:
 
+#### ☁️ Cloud & DevOps
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="github actions logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
+</div>
+
+#### 🐧 OS, Servers & Automation
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" height="30" alt="n8n logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
+
+#### 🗄️ Databases & Languages
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="shell logo"  />
+</div>
+
+## Certifications :
+- 🎯 **AWS Solutions Architect – Associate (SAA-C03)** — *in progress*
+- ✅ Microsoft Azure Fundamentals (AZ-900)
+- ✅ GitHub Foundations
 
 ## Stats :
 
@@ -95,6 +112,3 @@
 </div>
 
 ###
-
-
-
